@@ -1,16 +1,34 @@
-## Hi there 👋
+# Chfirchko GitHub Projects
 
-<!--
-**Chfirchko/Chfirchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой профиль GitHub! Здесь вы найдете проекты, над которыми я работаю, включая симуляции, .NET-разработки и эксперименты с Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Репозитории
+
+### Diplom
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+Многоагентная система симуляции поведения людей во время чрезвычайных ситуаций.
+- **Технологии**: Python, алгоритм A*
+- **Цель**: Моделирование движения людей для изучения их поведения в критических ситуациях.
+- **Файлы**: `main.py`, `A_Star_PyGame.py`
+
+---
+
+### NETProject
+![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)  
+Пример проекта на C# для разработки приложений на платформе .NET.
+- **Технологии**: C#
+- **Файлы**: `Program.cs`, `.csproj`
+
+---
+
+### nedodiplom1
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+Коллекция Python-скриптов для различных тестов и экспериментов.
+- **Файлы**: `main.py`, `color_check.py`, `button_test.py`
+
+---
+
+## Связаться со мной
+Если у вас есть предложения или вопросы, пишите мне через [GitHub Issues](https://github.com/Chfirchko).
